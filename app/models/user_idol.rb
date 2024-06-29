@@ -1,0 +1,2 @@
+class UserIdol < ApplicationRecord
+end
